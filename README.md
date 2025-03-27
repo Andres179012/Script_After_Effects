@@ -29,3 +29,18 @@ This After Effects script automates content population in video templates by:
 ## Requirements
 - After Effects CC+  
 - Project must contain:  
+/project_root/
+│── dataVideo.json (config)
+│── /fotos/
+│── img1.jpg/png/webp
+│── img2.jpg/png/webp
+│── ...
+
+Copy
+
+## Usage
+1. Place JSON and images in correct folders  
+2. Open template project in AE  
+3. Run script from File > Scripts  
+
+> **Note**: Script provides completion report with success/failure details
