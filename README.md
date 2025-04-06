@@ -1,5 +1,7 @@
 # AE Auto-Content Script
 
+This Project based on autogeneration of videos
+
 ## Overview
 This After Effects script automates content population in video templates by:
 
